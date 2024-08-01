@@ -1,3 +1,3 @@
 # demo
 my demo repository
-author - pratik rao
+author - pratik rao app developer
